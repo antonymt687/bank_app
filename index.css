@@ -1,0 +1,17 @@
+#firstdiv{
+    display: flex;
+}
+#firstdiv img{
+    height: 50px;
+}
+body{
+    background-color:white;
+   
+}
+#regbtn{
+    margin-left: 193px;
+}
+*{
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+}
